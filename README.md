@@ -1,0 +1,1 @@
+# Projeto02-Amp-Op-Somador-Guns-And-Roses
