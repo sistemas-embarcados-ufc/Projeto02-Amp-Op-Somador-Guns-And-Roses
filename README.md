@@ -7,7 +7,7 @@ Este projeto simula um **amplificador somador inversor** utilizando o **TL02** n
 ## 🎛️ Esquema do Circuito
 
 <p align="center">
-  <img src="imagens/esquema.png" width="600px">
+  <img src="Imagens/esquema.png" width="600px">
 </p>
 
 ### 🧪 Configuração:
